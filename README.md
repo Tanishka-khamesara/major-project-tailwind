@@ -1,5 +1,7 @@
 # major-project-tailwind
 
+hosted link->https://tanishka-khamesara.github.io/major-project-tailwind/
+
 ![Screenshot (141)](https://github.com/Tanishka-khamesara/major-project-tailwind/assets/127411985/722bfd8b-900c-4cfa-872c-dceae922c6ce)
 ![Screenshot (142)](https://github.com/Tanishka-khamesara/major-project-tailwind/assets/127411985/7e669c03-59a3-4055-a323-7754cc0b0274)
 ![Screenshot (143)](https://github.com/Tanishka-khamesara/major-project-tailwind/assets/127411985/bd276c15-ff1d-4124-857f-c4b8c9b77ca8)
